@@ -1,0 +1,6 @@
+scipy.constants
+matplotlib.pyplot
+numpy
+ipywidgets
+matplotlib: animation
+JSAnimation: IPython_display, HTMLWriter

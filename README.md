@@ -1,0 +1,1 @@
+# SciPy-2016-John-Hunter-Excellence-Plotting-Contest-Magnetotellurics-

@@ -28,4 +28,24 @@ lower-right panel illustrates the reflection and transmission of the wave at int
 the Earth’s surface, most of the downward propagating wave is reflected while the
 transmitted part diffuses downward. The upper-right panel shows the total (sum of their
 up and down going) electric and magnetic fields. The depth of investigation is regulated
-by a damping effect on the transmitted wave’s amplitude due to the increase of
+by a damping effect on the transmitted wave’s amplitude due to the increase of conductivity.
+
+Data in an MT survey are electric and magnetic fields measurements, which are the sum
+the Earth's responses but also the unknown natural field sources. The unknown source
+is overcome by using the ratio of the electric and magnetic fields, called the impedance.
+Impedance is a complex number whose amplitude is used to estimate an apparent
+resistivity while its phase provides information about changes in resistivity. Impedances
+are measured at many frequencies, as the depth of investigation increases as the
+frequency decreases. This is illustrated in the left panel displaying MT data. The
+measured apparent resistivity is equal to the resistivity of the upper layer when sampling
+at high frequencies, there is little contribution from the second layer. At intermediate
+frequencies, we measure an averaged apparent resistivity as well as an increase in the
+phase. At low frequencies, the apparent resistivity is converging to the lower layer
+resistivity while the phase stabilizes to its normal value of 45 degrees.
+
+This animated plot has been realized for http://em.geosci.xyz, an educational initiative at
+the University of British Columbia aiming to provide interactive resources and case
+histories for electromagnetic geophysics to promote its use for solving exploration,
+geotechnical and environmental problems.
+
+![](./Magnetotelluric_StaticPlot_ThibautAstic.png?raw=true)

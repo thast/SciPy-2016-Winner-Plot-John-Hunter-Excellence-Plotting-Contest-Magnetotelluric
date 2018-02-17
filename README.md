@@ -1,4 +1,5 @@
 # RESPONSE OF A LAYERED EARTH TO A PLANE WAVE, INSIGHT INTO THE MAGNETOTELLURIC METHOD
+## Winner Plot
 
 Thibaut Astic, PhD student in Geophysics at the University of British Columbia,
 Geophysical Inversion Facility

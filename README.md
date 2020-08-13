@@ -5,7 +5,7 @@ Thibaut Astic, PhD student in Geophysics at the University of British Columbia,
 Geophysical Inversion Facility
 
 <p align="center">
-<img src="Movie_MT.gif" width="50%"/>
+<img src="Movie_MT.gif" width="77%"/>
 <p>
 
 - The movie in context: https://em.geosci.xyz/content/maxwell3_fdem/natural_sources/MT_N_layered_Earth.html#

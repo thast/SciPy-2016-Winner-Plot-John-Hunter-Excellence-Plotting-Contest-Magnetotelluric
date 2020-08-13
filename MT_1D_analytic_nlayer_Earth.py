@@ -1,9 +1,7 @@
 from scipy.constants import epsilon_0, mu_0
 import matplotlib.pyplot as plt
 import numpy as np
-from ipywidgets import *
-from matplotlib import animation
-from JSAnimation import IPython_display, HTMLWriter
+import imageio
 
 """
 MT1D: n layered earth problem
@@ -378,7 +376,7 @@ def PlotAppRes(F,H,sig,chg,taux,c,mu,eps,n,fenvelope,PlotEnvelope):
         ax1.set_xlim([-1.5*np.abs(Hyzt).max(),1.5*np.abs(Hyzt).max()])
         ax1.set_xlim([-1.5*np.abs(Hyzt).max(),1.5*np.abs(Hyzt).max()])
     else:
-        print 'No envelop (if True, might be slow)'
+        print('No envelop (if True, might be slow)')
         ax[1] = PlotConfiguration(H,sig,eps,mu,ax[1],1.,zc)
         ax[1].get_xaxis().set_ticks([])
 
@@ -387,7 +385,7 @@ def PlotAppRes(F,H,sig,chg,taux,c,mu,eps,n,fenvelope,PlotEnvelope):
 #Interactive MT for Notebook
 def PlotAppRes3LayersInteract(h1,h2,sigl1,sigl2,sigl3,mul1,mul2,mul3,epsl1,epsl2,epsl3,PlotEnvelope,F_Envelope):
 
-    frangn=frange(-5,5,100.)
+    frangn=frange(-5,5,100)
     sig3= np.array([0.,0.001,0.1, 0.001])
     thick3 = np.array([120000.,50.,50.])
     eps3=np.array([1.,1.,1.,1])

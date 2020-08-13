@@ -4,6 +4,8 @@
 Thibaut Astic, PhD student in Geophysics at the University of British Columbia,
 Geophysical Inversion Facility
 
+The movie in context: https://em.geosci.xyz/content/maxwell3_fdem/natural_sources/MT_N_layered_Earth.html#
+
 The magnetotelluric (MT) method is a widely used geophysical technique, in particular for
 imaging geothermal systems, that is sensitive to Earth structures as shallow as tens of
 meters to depths of hundreds of kilometers. The source energy is electromagnetic waves,

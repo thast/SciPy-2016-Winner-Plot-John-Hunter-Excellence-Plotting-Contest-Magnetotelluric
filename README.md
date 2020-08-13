@@ -4,6 +4,10 @@
 Thibaut Astic, PhD student in Geophysics at the University of British Columbia,
 Geophysical Inversion Facility
 
+<p align="center">
+<img src="Movie_MT.gif" width="50%"/>
+<p>
+
 - The movie in context: https://em.geosci.xyz/content/maxwell3_fdem/natural_sources/MT_N_layered_Earth.html#
 
 - The winner announcement page: https://scipy2016.scipy.org/ehome/146062/332971/index.html
@@ -54,5 +58,3 @@ This animated plot has been realized for http://em.geosci.xyz, an educational in
 the University of British Columbia aiming to provide interactive resources and case
 histories for electromagnetic geophysics to promote its use for solving exploration,
 geotechnical and environmental problems.
-
-![](./Magnetotelluric_StaticPlot_ThibautAstic.png?raw=true)

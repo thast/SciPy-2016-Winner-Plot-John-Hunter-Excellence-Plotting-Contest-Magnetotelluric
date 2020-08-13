@@ -4,7 +4,11 @@
 Thibaut Astic, PhD student in Geophysics at the University of British Columbia,
 Geophysical Inversion Facility
 
-The movie in context: https://em.geosci.xyz/content/maxwell3_fdem/natural_sources/MT_N_layered_Earth.html#
+- The movie in context: https://em.geosci.xyz/content/maxwell3_fdem/natural_sources/MT_N_layered_Earth.html#
+
+- The winner announcement page: https://scipy2016.scipy.org/ehome/146062/332971/index.html
+
+- The video of the winner announcement: https://www.youtube.com/watch?v=vH-9FlaOl74
 
 The magnetotelluric (MT) method is a widely used geophysical technique, in particular for
 imaging geothermal systems, that is sensitive to Earth structures as shallow as tens of

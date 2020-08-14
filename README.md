@@ -4,6 +4,9 @@
 Thibaut Astic, PhD student in Geophysics at the University of British Columbia,
 Geophysical Inversion Facility
 
+[![DOI](https://zenodo.org/badge/121817191.svg)](https://zenodo.org/badge/latestdoi/121817191)
+
+
 <p align="center">
 <img src="Movie_MT.gif" width="77%"/>
 <p>
